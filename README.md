@@ -1,6 +1,11 @@
-# vueapp
+# Vue sceleton
 
-> A Vue.js simple example
+This project includes:
+ * vue by vue-cli
+ * vue-router
+ * JQuery
+ * SASS
+ * bootsrap
 
 ## Build Setup
 
